@@ -99,23 +99,23 @@ Data-driven analysis of employee satisfaction, overtime, and departmental trends
 
  # Recommendations
    ## Improve Work-Life Balance
-   Limit excessive overtime through policy and monitoring. Introduce flexible schedules and promote time-off to prevent burnout and support employee well-being.
+   * Limit excessive overtime through policy and monitoring. Introduce flexible schedules and promote time-off to prevent burnout and support employee well-being.
      
-   * Enhance Career Growth Opportunities
-     Address stagnation by increasing promotion frequency, offering clear advancement paths, and supporting lateral movement between departments to retain top talent.
+   ## Enhance Career Growth Opportunities
+   * Address stagnation by increasing promotion frequency, offering clear advancement paths, and supporting lateral movement between departments to retain top talent.
      
-   * Expand Training & Development
-     Invest in personalized learning paths and increase training frequency—especially in technical and high-turnover roles—to drive engagement and upskilling.
+     ##Expand Training & Development
+     * Invest in personalized learning paths and increase training frequency—especially in technical and high-turnover roles—to drive engagement and upskilling.
      
-   * Boost Diversity & Inclusion
-     Encourage gender-balanced hiring and promotion. Conduct regular audits to ensure equal opportunities across departments and leadership roles.
+     ## Boost Diversity & Inclusion
+     * Encourage gender-balanced hiring and promotion. Conduct regular audits to ensure equal opportunities across departments and leadership roles.
      
-   * Implement Targeted Retention Plans
-     Focus on high-attrition areas like Sales and R&D with tailored initiatives such as role redesign, compensation review, and focused engagement programs.
+     ## Implement Targeted Retention Plans
+     * Focus on high-attrition areas like Sales and R&D with tailored initiatives such as role redesign, compensation review, and focused engagement programs.
      
-   * Strengthen Feedback & Communication
-     Adopt 360-degree feedback systems and regular check-ins to promote transparency, improve leadership effectiveness, and understand employee sentiment in real time.
+     ## Strengthen Feedback & Communication
+     * Adopt 360-degree feedback systems and regular check-ins to promote transparency, improve leadership effectiveness, and understand employee sentiment in real time.
      
-   * Utilize Predictive Analytics
-     Build attrition prediction models using current HR data to proactively identify at-risk employees and intervene with personalized retention strategies.
+     ## Utilize Predictive Analytics
+     * Build attrition prediction models using current HR data to proactively identify at-risk employees and intervene with personalized retention strategies.
    
