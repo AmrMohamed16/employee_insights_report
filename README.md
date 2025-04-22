@@ -15,13 +15,13 @@ Data-driven analysis of employee satisfaction, overtime, and departmental trends
 * This project explores employee data to uncover patterns in satisfaction, overtime behavior, and departmental distribution.
   Through visualizations and analysis, it highlights key trends that can help HR teams make informed decisions around retention, engagement, and organizational structure.
   The insights aim to support a healthier work environment and strategic workforce planning.
-<hr>
+
  # Project_Goal
  * The primary goal of this project is to perform a comprehensive analysis of employee data to uncover key patterns that influence job satisfaction, departmental dynamics, and
    attrition.
    By leveraging visualization and data-driven insights, the analysis supports HR teams in making informed decisions around employee retention, engagement, and workforce planning.
    This ensures strategic talent management and the creation of a healthier, more efficient work environment.
-<hr>
+
  # DataSet
  * The dataset provides detailed information about employees within an organization, capturing a range of demographic, professional, and performance-related attributes. It serves as a
    foundation for analyzing factors such as job satisfaction, departmental structure, and employee engagement over time.
@@ -53,6 +53,7 @@ Data-driven analysis of employee satisfaction, overtime, and departmental trends
 * YearsSinceLastPromotion: Number of years since the last promotion.
 * YearsWithCurrManager: Number of years working with the current manager.
 <hr>
+
 # Tools
  * VS code
  * Jupyter Notebook
@@ -62,6 +63,7 @@ Data-driven analysis of employee satisfaction, overtime, and departmental trends
  * Numpy
  * Matplotlib
 <hr>
+
 # Insights 
   * This HR Analytics project explores detailed employee data to identify key patterns that influence satisfaction, performance, and attrition within an organization.
     The goal is to empower HR departments with data-driven insights for better decision-making in areas such as workforce planning, engagement, and organizational structure.
