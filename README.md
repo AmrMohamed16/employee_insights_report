@@ -98,8 +98,8 @@ Data-driven analysis of employee satisfaction, overtime, and departmental trends
   * A stronger training culture could enhance employee engagement, especially among junior staff and those in dynamic roles like sales and technical fields.
 
  # Recommendations
-   * Improve Work-Life Balance
-     Limit excessive overtime through policy and monitoring. Introduce flexible schedules and promote time-off to prevent burnout and support employee well-being.
+   ## Improve Work-Life Balance
+   Limit excessive overtime through policy and monitoring. Introduce flexible schedules and promote time-off to prevent burnout and support employee well-being.
      
    * Enhance Career Growth Opportunities
      Address stagnation by increasing promotion frequency, offering clear advancement paths, and supporting lateral movement between departments to retain top talent.
