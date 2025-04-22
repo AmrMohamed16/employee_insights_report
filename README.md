@@ -52,7 +52,6 @@ Data-driven analysis of employee satisfaction, overtime, and departmental trends
 * YearsInCurrentRole: Number of years in the current job role.
 * YearsSinceLastPromotion: Number of years since the last promotion.
 * YearsWithCurrManager: Number of years working with the current manager.
-<hr>
 
 # Tools
  * VS code
@@ -62,7 +61,7 @@ Data-driven analysis of employee satisfaction, overtime, and departmental trends
  * Seaborn
  * Numpy
  * Matplotlib
-<hr>
+
 
 # Insights 
   * This HR Analytics project explores detailed employee data to identify key patterns that influence satisfaction, performance, and attrition within an organization.
